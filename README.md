@@ -1,6 +1,6 @@
 JavaParser and Maven sample
 ---
-
+# Adding one line for testing
 A fully working sample Maven project that parses and generates code with [JavaParser](http://www.javaparser.org)
 
 This is targeted at people without [Maven](https://maven.apache.org/) experience.
